@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jcarrasc7/jcarrasc7/master/banner.png" width="500%" />
+<img src="https://raw.githubusercontent.com/jcarrasc7/jcarrasc7/master/banner.png" width="1000%" />
 
 # Hi, I'm Juan
 
