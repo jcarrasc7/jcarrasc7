@@ -37,7 +37,7 @@ Ready to contribute, ready to grow.
 
 ## Most Used Languages
 
-![Top Langs](https://raw.githubusercontent.com/jcarrasc7/github-stats-transparent/output/generated/languages.svg?v=2)
+![Top Langs](https://raw.githubusercontent.com/jcarrasc7/github-stats-transparent/output/generated/languages.svg?)
 
 <!-- ![Overview](https://raw.githubusercontent.com/jcarrasc7/github-stats-transparent/output/generated/overview.svg) -->
 
