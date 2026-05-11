@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/jcarrasc7/jcarrasc7/main/Banner_Montañas_Minimalista_Monocromo.png)
+![Banner](https://raw.githubusercontent.com/jcarrasc7/jcarrasc7/main/banner.png)
 
 # Hi, I'm Juan
 
