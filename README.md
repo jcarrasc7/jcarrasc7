@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/jcarrasc7/jcarrasc7/main/banner.png)
+![Banner](https://raw.githubusercontent.com/jcarrasc7/jcarrasc7/master/banner.png)
 
 # Hi, I'm Juan
 
