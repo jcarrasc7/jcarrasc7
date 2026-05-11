@@ -1,3 +1,5 @@
+<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
 # Hi, I'm Juan
 
 Backend Developer · Autodidact · Universidad de la Costa CUC
