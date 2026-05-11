@@ -31,6 +31,7 @@ Ready to contribute, ready to grow.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jcarrasc7&theme=soft-green&hide_border=true&border_radius=5&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 
+"""
 ![Most Used Languages](https://raw.githubusercontent.com/jcarrasc7/github-stats-transparent/output/generated/languages.svg)
 
 ![Overview](https://raw.githubusercontent.com/jcarrasc7/github-stats-transparent/output/generated/overview.svg)
