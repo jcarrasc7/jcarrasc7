@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Juan
 
-<!--
-**jcarrasc7/jcarrasc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer · Autodidact · Universidad de la Costa CUC
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developer with experience in Python, Java and C#, with a strong focus on backend
+systems and practical use of AI tools. Driven by growth, always pushing to build
+better and go further.
+
+
+Ready to contribute, ready to grow.
+
+
+
+---
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jcarrasc7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+
+
+
+## Stats 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jcarrasc7&theme=soft-green&hide_border=true&border_radius=5&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
+
+## Most Used lenguages
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarrasc7&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarrasc7&layout=compact&theme=radical)
