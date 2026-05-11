@@ -2,17 +2,14 @@
 
 Backend Developer · Autodidact · Universidad de la Costa CUC
 
-
 Developer with experience in Python, Java and C#, with a strong focus on backend
 systems and practical use of AI tools. Driven by growth, always pushing to build
 better and go further.
 
-
 Ready to contribute, ready to grow.
 
-
-
 ---
+
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,15 +25,13 @@ Ready to contribute, ready to grow.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jcarrasc7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
 
+---
 
-
-## Stadistics 
+## Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jcarrasc7&theme=soft-green&hide_border=true&border_radius=5&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 
-## Most Used lenguages
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarrasc7&show_icons=true&theme=radical)
 
-## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarrasc7&layout=compact&theme=radical)
 
