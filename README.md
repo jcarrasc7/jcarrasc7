@@ -1,5 +1,4 @@
-![Banner](https://raw.githubusercontent.com/jcarrasc7/jcarrasc7/master/banner.png)
-<img src="https://raw.githubusercontent.com/jcarrasc7/jcarrasc7/master/banner.png" width="200%" />
+<img src="https://raw.githubusercontent.com/jcarrasc7/jcarrasc7/master/banner.png" width="500%" />
 
 # Hi, I'm Juan
 
