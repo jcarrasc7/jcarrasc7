@@ -37,7 +37,7 @@ Ready to contribute, ready to grow.
 
 ## Most Used Languages
 
-![Top Langs](https://raw.githubusercontent.com/jcarrasc7/github-stats-transparent/output/generated/languages.svg?)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jcarrasc7&layout=compact&theme=radical)
 
 <!-- ![Overview](https://raw.githubusercontent.com/jcarrasc7/github-stats-transparent/output/generated/overview.svg) -->
 
