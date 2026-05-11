@@ -1,4 +1,4 @@
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+![Banner](https://raw.githubusercontent.com/jcarrasc7/jcarrasc7/main/Banner_Montañas_Minimalista_Monocromo.png)
 
 # Hi, I'm Juan
 
