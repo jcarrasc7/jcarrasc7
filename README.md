@@ -35,5 +35,8 @@ Ready to contribute, ready to grow.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jcarrasc7&theme=soft-green&hide_border=true&border_radius=5&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ## Most Used lenguages
-! [Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarrasc7&show_icons=true&theme=radical)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarrasc7&show_icons=true&theme=radical)
+
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarrasc7&layout=compact&theme=radical)
 
